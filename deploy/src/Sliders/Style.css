@@ -1,0 +1,12 @@
+    .Container{
+
+        position: relative ;
+        display : flex;
+        justify-content: center;
+        align-items: center;
+        width: 600px;
+        height: 450px ;
+
+
+
+    }
